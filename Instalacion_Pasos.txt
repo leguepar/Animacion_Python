@@ -8,7 +8,6 @@ Windows: https://docs.manim.community/en/stable/installation/windows.html
 	b. Abri el panel de control y agrega el link a esa carpeta en PATH
 3. Crea o activa un ambiente virtual para tus proyectos Manim
 4. Desde la terminal instala manim en tu entorno virtual
-
 	python -m pip install manim
 
 5. Instalar MikTex para compilar LaTeX -> https://miktex.org/download
